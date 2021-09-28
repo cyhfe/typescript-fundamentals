@@ -1,1 +1,0 @@
-const b: string = "s";
